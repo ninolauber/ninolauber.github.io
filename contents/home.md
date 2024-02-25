@@ -1,6 +1,6 @@
 
 #### Email
-nino.lauber[at]univie.ac.at
+nino.lauber@univie.ac.at
 
 #### Education
 
