@@ -3,6 +3,10 @@
 
 nino.lauber@univie.ac.at
 
+#### Employment
+
+2023: PostDoc in the Theoretical Biochemistry Group (TBI), Institute for Theoretical Chemistry, University of Vienna [[homepage]](https://www.tbi.univie.ac.at/index.html)
+
 #### Education
 
 2019 - 2023: PhD in Molecular Biology and Biomedicine, University of the Basque Country
