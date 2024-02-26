@@ -15,8 +15,7 @@ nino.lauber@univie.ac.at
 
 2011 - 2015: Bachelor Degree in Physics, University of Vienna
 
-2002 - 2010: Erich-Fried-Realgymnasium, BRG 9 (Vienna), specialization in Biology, Chem-
-istry and Physics
+2002 - 2010: Erich-Fried-Realgymnasium, BRG 9 (Vienna), specialization in Biology, Chemistry and Physics
 
 #### Research Interests
 
